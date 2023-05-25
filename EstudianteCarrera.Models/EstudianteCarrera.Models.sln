@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudianteCarrera.Models", "EstudianteCarrera.Models.csproj", "{D2EBB489-7E4E-4F75-A2E1-D411F7FAAB24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudianteCarrera.API", "..\EstudianteCarrera.API\EstudianteCarrera.API.csproj", "{52C894C7-CAF0-4A25-B440-ABD01B4B7672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2EBB489-7E4E-4F75-A2E1-D411F7FAAB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EBB489-7E4E-4F75-A2E1-D411F7FAAB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EBB489-7E4E-4F75-A2E1-D411F7FAAB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EBB489-7E4E-4F75-A2E1-D411F7FAAB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C894C7-CAF0-4A25-B440-ABD01B4B7672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C894C7-CAF0-4A25-B440-ABD01B4B7672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C894C7-CAF0-4A25-B440-ABD01B4B7672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C894C7-CAF0-4A25-B440-ABD01B4B7672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {288FEE74-9E93-4A66-AF7F-7FF8DEAEBB14}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\bin\Debug\net6.0\EstudianteCarrera.Models.deps.json
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\bin\Debug\net6.0\EstudianteCarrera.Models.dll
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\bin\Debug\net6.0\EstudianteCarrera.Models.pdb
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\EstudianteCarrera.Models.csproj.AssemblyReference.cache
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\EstudianteCarrera.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\EstudianteCarrera.Models.AssemblyInfoInputs.cache
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\EstudianteCarrera.Models.AssemblyInfo.cs
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\EstudianteCarrera.Models.csproj.CoreCompileInputs.cache
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\EstudianteCarrera.Models.dll
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\refint\EstudianteCarrera.Models.dll
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\EstudianteCarrera.Models.pdb
+C:\Users\AlanisAM\source\repos\EstudianteCarrera.Models\obj\Debug\net6.0\ref\EstudianteCarrera.Models.dll
